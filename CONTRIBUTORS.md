@@ -1,8 +1,6 @@
+---
 Recognizing Those Who Helped Make It Happen:
-
-<a href="https://github.com/tcet-opensource/tnp-website/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=tcet-opensource/tnp-website" />
-</a>
+---
 
 - [ adityayadav71 ] (https://github.com/adityayadav71)
 - [ Anshu71 ] (https://github.com/Anshu71)
@@ -17,3 +15,7 @@ Recognizing Those Who Helped Make It Happen:
 - [ ShudhanshuSingh] (https://github.com/ShudhanshuSingh)
 - [ Vansh-Baghel] (https://github.com/Vansh-Baghel)
 - [VedantPol] (https://github.com/VedantPol)
+
+<a href="https://github.com/tcet-opensource/tnp-website/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=tcet-opensource/tnp-website" />
+</a>
