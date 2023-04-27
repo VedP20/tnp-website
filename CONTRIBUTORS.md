@@ -1,5 +1,9 @@
 Recognizing Those Who Helped Make It Happen:
 
+<a href="https://github.com/tcet-opensource/tnp-website/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=tcet-opensource/tnp-website" />
+</a>
+
 - [ adityayadav71 ] (https://github.com/adityayadav71)
 - [ Anshu71 ] (https://github.com/Anshu71)
 - [ darshan15062002 ] (https://github.com/darshan15062002)
